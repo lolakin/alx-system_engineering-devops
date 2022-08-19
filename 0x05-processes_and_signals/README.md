@@ -1,1 +1,1 @@
-In this project I am learning aboud handling process ID's and signals in Bash with ps, pgrep, pkill, kill, exit, and trap
+This directory contains the files for the project 0x05-processes_and_signals from ALX Software Engineering Program.
